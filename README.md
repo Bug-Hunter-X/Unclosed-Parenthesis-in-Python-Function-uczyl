@@ -1,0 +1,1 @@
+This repository demonstrates a common Python coding error: an unclosed parenthesis in a function definition.  The `unclosed_parenthesis.py` file contains the buggy code, which results in a `SyntaxError`. The solution, provided in `unclosed_parenthesis_solution.py`, demonstrates the correct way to define a function with properly closed parentheses.
